@@ -1,0 +1,9 @@
+telebot
+elevenlabs
+requests
+sqlite3
+ratelimiter
+aiogram
+yookassa
+python-telegram-bot
+python-dotenv
